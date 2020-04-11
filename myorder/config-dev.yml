@@ -1,1 +1,2 @@
-aaaaaaaa
+config: 
+  info: "master branch,springcloud-config/myorder/config-dev.yml version=1"
